@@ -47,7 +47,7 @@ body {
     margin: 10px;
     width: 50%;
     height: 200px;
-    background-image: url(/section-1-m.png);
+    background-image: url(/img/section-1-m.png);
 }
 
 .row3 {
@@ -59,7 +59,7 @@ body {
     margin: 10px;
     width: 100%;
     height: 200px;
-    background-image: url(/section-2-m.png);
+    background-image: url(/img/section-2-m.png);
 }
 
 .col4 {
@@ -82,7 +82,7 @@ body {
     margin: 10px;
     width: 100%;
     height: 200px;
-    background-image: url(/section-3-m.png);
+    background-image: url(/img/section-3-m.png);
 }
 
 .row5 {
